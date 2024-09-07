@@ -18,17 +18,7 @@ This course introduced me to frontier social science research and how big data c
 - **Focus**: Visualizing spatial variations, understanding the relationship between rent and income mobility, and evaluating key factors such as education, healthcare, and public goods.
 - **Key Methods**: Data visualization, correlation analysis, summary statistics, regression models.
 
-**Summary**: In this project, I used data from the Opportunity Atlas to analyze economic mobility in Evanston, IL. I focused on how factors like rent, education levels, and social capital affect upward mobility in different census tracts. My analysis revealed the impact of disparities in educational access and housing costs on economic outcomes.
-
-### **Project Part 2: Causal Analysis and Hypothesis Testing**
-
-- **Goal**: Test hypotheses related to economic mobility and key factors influencing social outcomes.
-- **Focus**: Conducting a causal analysis to investigate the relationships between education, public spaces, and proximity to crime on mobility.
-- **Key Methods**: Regression analysis, causal inference, difference-in-differences (DiD), synthetic control methods.
-
-**Highlight**: I employed **synthetic control methods** and **propensity score matching** to identify the causal effect of public spaces and educational attainment on upward mobility. These advanced techniques helped me control for confounders and improve the robustness of my results, allowing for more accurate policy recommendations.
-
-## Labs
+## Assignments
 
 ### **Lab 1: Introductory Data Exploration**
 
