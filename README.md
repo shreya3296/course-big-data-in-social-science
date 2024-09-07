@@ -1,6 +1,6 @@
 # ECON 50: Using Big Data to Solve Economic and Social Problems - Harvard University
 
-This repository contains my projects, lab assignments, and solutions for **Econ 50 / SUP 135** taught by **Professor Raj Chetty** at Harvard University. In this course, I used big data to analyze key social and economic challenges, such as equality of opportunity, education, health outcomes, climate change, and criminal justice. The assignments leverage modern data science techniques, allowing me to address these issues from a quantitative perspective.
+This repository contains lab assignments and attempted solutions for **Econ 50 / SUP 135** taught by **Professor Raj Chetty** at Harvard University. In this course, I used big data to analyze key social and economic challenges, such as equality of opportunity, education, health outcomes, climate change, and criminal justice. The assignments leverage both modern data science and econometrics techniques, allowing me to address these issues from a interdisciplinary quantitative perspective.
 
 ## Course Overview
 
@@ -9,14 +9,6 @@ This repository contains my projects, lab assignments, and solutions for **Econ 
 **Institution**: Harvard University
 
 This course introduced me to frontier social science research and how big data can address some of today’s most pressing social and economic problems. I applied quantitative methods like regression, causal inference, and machine learning to real-world datasets, working to generate actionable insights for policy-making and research.
-
-## Projects
-
-### **Project Part 1: Exploratory Data Analysis**
-
-- **Goal**: Explore and analyze community data, focusing on upward mobility, incarceration, and racial disparities using Opportunity Atlas.
-- **Focus**: Visualizing spatial variations, understanding the relationship between rent and income mobility, and evaluating key factors such as education, healthcare, and public goods.
-- **Key Methods**: Data visualization, correlation analysis, summary statistics, regression models.
 
 ## Assignments
 
